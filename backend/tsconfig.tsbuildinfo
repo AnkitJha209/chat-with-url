@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/ingest.ts","./src/controllers/query.ts","./src/utils/langchainfn.ts"],"version":"5.7.3"}
