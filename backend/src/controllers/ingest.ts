@@ -5,7 +5,7 @@ import { embedding, textspliter } from "../utils/langchainfn";
 
 export const ingestUrl = async (req: Request, res: Response) => {
     const { url } = req.body;
-
+    console.log(url)
     const loader = new PuppeteerWebBaseLoader(url);
     const domain_name = url.split("//")[1].split("/")[0];
 
