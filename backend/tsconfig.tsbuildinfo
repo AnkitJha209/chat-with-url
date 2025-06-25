@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/controllers/ingest.ts","./src/controllers/query.ts","./src/utils/langchainfn.ts"],"version":"5.7.3"}
+{"root":["./src/index.ts","./src/controllers/ingest.ts","./src/controllers/ingestpdf.ts","./src/controllers/query.ts","./src/middleware/uploadpdf.ts","./src/utils/langchainfn.ts"],"version":"5.7.3"}
